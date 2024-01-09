@@ -77,9 +77,11 @@ function Event() {
         <h2 className={styles.sectionHeadText}>Events.</h2>
 
         <p className="mt-4  max-w-3xl leading-[30px]">
-          lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud
+        At ChES, we are proud to curate a diverse calendar of events that ignite the enthusiasm
+        for chemical engineering and nurture an innovative spirit. Annually, our society organizes
+        a variety of engaging activities, with flagship events such as SIPHON, ALCHEMY, and EUREKA
+        taking center stage. The remaining year is filled with workshops, industrial visits, Chem-E-Car Competitions,
+        and numerous K-12 activities.
         </p>
         <div className="mt-20 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {/* Open the modal using document.getElementById('ID').showModal() method */}

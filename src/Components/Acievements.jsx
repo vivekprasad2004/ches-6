@@ -38,9 +38,9 @@ const Achievement = () => {
       <h2 className={styles.sectionHeadText}>Achievements.</h2>
 
       <p className="mt-4  max-w-3xl leading-[30px]">
-        lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      In our relentless pursuit of excellence, ChES has achieved significant milestones along its journey.
+      These accomplishments are a testament to the dedication of our determined team members, the unwavering
+      support from our esteemed faculty advisors, and the encouragement received from the college administration.
       </p>
       <div className="mt-20 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8  place-content-center ">
         {Achievements.map((Achievements, index) => (

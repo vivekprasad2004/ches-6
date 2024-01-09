@@ -14,9 +14,7 @@ function Team() {
       <h2 className={styles.sectionHeadText}>The Team.</h2>
 
       <p className="mt-4  max-w-3xl leading-[30px]">
-        lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+
       </p>
       <FacultyCard />
 
